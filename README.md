@@ -4,7 +4,7 @@ web组试用期前期准备
 &emsp;&emsp;首先欢迎大家进入试用期加入web组,可能很多人不太了解web组的主要工作,在这里我做一个简单的总结.web组可以说是在线比较重要的一个组,web组的主要工作就是把ps给的设计稿变成网页,让浏览器可以把页面的整体效果渲染出来.web是连接ps组合php组的重要桥梁,需要和ps以及php组的成员进行沟通.<br>
 &emsp;&emsp;作为一名前端开发人员不知道~~全球最大的同性交友网站~~github实在说不过去,所以github是前端开发人员必须了解的网站.**没有之一**(~~至于github是什么就不用问我了吧,我相信大家都会百度搜索~~)<br>
 &emsp;&emsp;下图表示了ps,web,php,运维组.四个组之间的关系.
-![](images/1.png)(hr)
+![](images/1.png)<hr>
 <!-- <img src="images/1.png"><hr> -->
 ### 试用期准备<br>
 &emsp;&emsp;1.**前往[github官网](https://github.com/)注册一个github账号;并创建一个github仓库,以后每一周都要将任务发布到创建的仓库里,将自己仓库的地址发到[这里](https://github.com/YUOL-CCY/-previous-preparation/issues)**.了解github是什么并熟悉github的基本使用(~~在以后的任务中,web组的成员需要把每一周的任务发布到github仓库~~),*git*有兴趣的可以了解**不做强制要求**.*github desktop*的安装以及使用.<br>
