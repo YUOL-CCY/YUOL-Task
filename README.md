@@ -13,7 +13,7 @@ web组试用期前期准备
 ### 软件以及视频教程链接
 - 1.[github教程](https://www.imooc.com/learn/390)看完前三章就可以了,后面的有兴趣可以继续了解.
 - 2.[ps切图教程](https://www.imooc.com/learn/506),这一个小[demo]()可以练习切图.
-- 3.[前端编译器](链接：https://pan.baidu.com/s/1YugDxsMdokCrJa6up2mmgA ),(密码:6yho)
+- 3.[前端编译器](https://pan.baidu.com/s/1YugDxsMdokCrJa6up2mmgA ),(密码:6yho)
 - 4.[markdown文档](http://xianbai.me/learn-md/article/about/readme.html)
 
 
