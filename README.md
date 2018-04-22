@@ -6,8 +6,8 @@ web组试用期前期准备
 &emsp;&emsp;下图就是表示了三者之间的关系.
 <img src="images/1.png"><hr>
 ### 试用期准备<br>
-&emsp;&emsp;1.前往[github官网](https://github.com/)注册账号,了解github是什么并熟悉github的基本使用(在以后的任务中,web组的成员需要把每一周的任务发布到github),git有兴趣的可以了解**不做强制要求**.[github desktop](链接：https://pan.baidu.com/s/1LYhDsqpMQ9vt7uRM1veaWA)**(密码:c5ow)**,安装以及使用.<br>
-&emsp;&emsp;2.[ps软件](链接：https://pan.baidu.com/s/12B2-A2dFddeXbdDnNW6H4)**(密码:f6nq)**的安装以及ps的基本使用,目前会切图就可以了,其他的暂时不做要求.<br>
+&emsp;&emsp;1.前往[github官网](https://github.com/)注册账号,了解github是什么并熟悉github的基本使用(在以后的任务中,web组的成员需要把每一周的任务发布到github),git有兴趣的可以了解**不做强制要求**.[github desktop](链接：https://pan.baidu.com/s/1LYhDsqpMQ9vt7uRM1veaWA)(**密码:c5ow**),安装以及使用.<br>
+&emsp;&emsp;2. [ps软件](链接:https://pan.baidu.com/s/12B2-A2dFddeXbdDnNW6H4)(**密码:f6nq**)的安装以及ps的基本使用,目前会切图就可以了,其他的暂时不做要求.<br>
 &emsp;&emsp;3.编程软件的选择,以及安装.编程软件只是一个辅助工具.我不会做任何要求,选择一个适合自己的就可以了.我给的安装包是编程人员经常使用的.如果大家认为不满意的话,可以自己去找其他的编程软件.~~(**安装包的下载链接在底部**)~~.<br>
 &emsp;&emsp;4.markdown文档每周任务必写.写文档是每个程序员必备的技能,养成写文档的好习惯对以后的发展有好处.<hr>
 - 1.[github教程](https://www.imooc.com/learn/390)看完前三章就可以了,后面的有兴趣可以继续了解.
