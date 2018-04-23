@@ -22,7 +22,9 @@ web组试用期前期准备
 - 4.[ps切图教程](https://www.imooc.com/learn/506),这一个小[demo](https://pan.baidu.com/s/1KkCqh4F91GM_dP3mDCuQpg)(**密码:ba4l**)可以练习切图.
 - 5.[前端编译器](https://pan.baidu.com/s/1YugDxsMdokCrJa6up2mmgA ),(**密码:6yho**)
 - 6.[markdown文档](http://xianbai.me/learn-md/article/about/readme.html)
-- 7.[廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- 7.[廖雪峰git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)<br>
+
+**PS:有一些资料是百度网盘分享的,要下载百度网盘获取资料**
 
 
 
