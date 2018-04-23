@@ -7,7 +7,9 @@ web组试用期前期准备
 ![](images/1.png)<hr>
 <!-- <img src="images/1.png"><hr> -->
 ### 试用期前期准备<br>
-&emsp;&emsp;1.**前往[github官网](https://github.com/)注册一个github账号,并创建一个github仓库,将自己仓库的地址发到[这里](https://github.com/YUOL-CCY/-previous-preparation/issues).以后每一周都要将任务发布到自己创建的仓库里**.了解github是什么并熟悉github的基本使用(~~在以后的任务中,web组的成员需要把每一周的任务发布到github仓库~~),*git*有兴趣的可以了解**不做强制要求**.*github desktop*的安装以及使用.<br>
+&emsp;&emsp;1.**前往[github官网](https://github.com/)注册一个github账号,并创建一个github仓库,将自己仓库的地址发到[这里](https://github.com/YUOL-CCY/-previous-preparation/issues).以后每一周都要将任务发布到自己创建的仓库里**.了解github是什么并熟悉github的基本使用(~~在以后的任务中,web组的成员需要把每一周的任务发布到github仓库~~),*git*有兴趣的可以了解**不做强制要求**.*github desktop*的安装以及使用.
+**ps**:提交仓库地址的时候把自己的名字带上,要不然我不知道是谁.
+<br>
 
 &emsp;&emsp;2.*ps*的安装以及ps的基本使用,目前会切图就可以了,其他的暂时不做要求.<br>
 
