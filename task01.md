@@ -14,6 +14,28 @@ web组试用期第一周任务
 5.&nbsp;学会使用开发者工具,所有的浏览器都带有开发者工具,一般是F12可以打开它.开发者工具是前端开发人员必须会使用的,在做网页的过程中通过开发者工具查找不足可以帮助我们快速的处理问题.<br>
 
 ### 本周任务
-&emsp;&emsp;本周任务的目的是让你们学会用Photoshop切图以及Web组最基本的技能,所以重点是HTML5、CSS3、JavaScript。
+&emsp;&emsp;本周任务的目的是让你们学会用Photoshop切图以及Web组最基本的技能,所以重点是HTML5、CSS3、JavaScript.
 
-**重点:** 把我放在[这里]()的demo.psd的样图下载下来，做出一张首页。
+**重点:** 把我放在[这里](https://github.com/YUOL-CCY/task/blob/master/resources/demo.psd)的demo.psd的样图下载下来,做出一张首页.
+
+#### javascript
+    js暂时不做要求,完成页面的整体布局和静态效果就可以了.
+
+### 参考资料&&教程&&资源
+[建立工程文件视频]()
+
+[web开发经验谈之F12开发者工具/Web调试](http://www.cnblogs.com/yougewe/p/5152700.html)
+
+[利用IE的开发人员工具解决网站不兼容问题](https://cnzhx.net/blog/ie-compatibility-developer-tools/)
+
+[W3school HTML教程](http://www.w3school.com.cn/html/index.asp)
+
+[W3school css教程](http://www.w3school.com.cn/css/index.asp)
+
+[html视频教程](https://pan.baidu.com/share/init?surl=lQowwNDVeQ6icK1ejXcNyw)**(密码:rb83)**
+
+[css视频教程](https://pan.baidu.com/s/1dqltNoCZ3yKeVz6xZWtIHA#list/path=%2F)**(密码:ilav)**
+
+
+
+
