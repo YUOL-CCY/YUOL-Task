@@ -18,7 +18,7 @@ web组试用期第一周任务
 
 **重点:** 把我放在[这里](https://github.com/YUOL-CCY/task/blob/master/resources/demo.psd)的demo.psd的样图下载下来,做出一张首页. 
 
-**把完成的任务发布的自己创建的github仓库里面**
+**把完成的任务发布到自己创建的github仓库里面**
 
 #### javascript
     js暂时不做要求,完成页面的整体布局和静态效果就可以了.
