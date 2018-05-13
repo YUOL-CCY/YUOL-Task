@@ -6,7 +6,7 @@
 <ul>
 <li>本周任务继续学习html以及css,完善第一周的任务.</li>
 <br>
-<li>本周新任务继续写页面,经过第一周的任务大家应该都有一些感悟了.第二周任务是要加深你们的感悟.<a href="#">青春长大首页psd文件下载</a></li>
+<li>本周新任务继续写页面,经过第一周的任务大家应该都有一些感悟了.第二周任务是要加深你们的感悟.<a href="https://github.com/YUOL-CCY/YUOL-Task/blob/master/resources/5.4.psd">青春长大首页psd文件下载</a></li>
 </ul>
 
 #### 任务要求
