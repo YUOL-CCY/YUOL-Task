@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style: none;
+}
+.nav-wrapper{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #006986;
+    border-radius: 5px;
+}
+
+.navbar{
+    padding: 0 15px;
+    font-size: 0;
+    height: 100%;
+}
+
+.nav-item{
+    display: inline-block;
+    position: relative;
+    width: 167px;
+    height: 50px;
+    font-size: 16px;
+    height: 100%;
+    line-height: 50px;
+    text-align: center;
+}
+.nav-item a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+}
+.nav-item a:hover{
+    background-color: #fff;
+    color:#006986;
+}
+
+.nav-item:hover .dropdown{
+    opacity: 1; 
+}
+
+.dropdown{
+    width: 100%;
+    position: absolute;
+    opacity: 0;
+    transition: all 0.5s linear;
+    font-size: 16px;
+    background-color: #006986;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.clearfix::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.news-wrapper{
+    width: 780px;
+    float: right;
+}
+
+
+.title{
+    padding-left: 50px;
+    background: url("./ztyw.jpg") no-repeat 5px;
+    height: 48px;
+    line-height: 48px;
+    border-bottom: 2px solid #006986;
+    font-size: 30px;
+}
+.title span{
+    font-size: 22px;
+    color: #006986
+}
+
+.content{
+    padding: 10px;
+}
+
+.content_l{
+    float: left;
+    width: 32%;
+    padding:10px;
+    border: 1px solid #006986;
+}
+.content_l p{
+    text-align: center;
+    color: #006986;
+    font-size: 14px;
+    cursor: pointer;
+}
+.content_r{
+    float: right;
+    width: 60%;
+    padding: 0 10px;
+}
+.content_title{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.content_description{
+    text-indent: 2em;
+    font-size: 18px;
+}
+.content_description a{
+    text-decoration: none;
+    color: #006986
+}
+
+.content_list{
+    margin-top: 10px;
+}
+.content_list li{
+    line-height: 40px;
+    height: 40px;
+    list-style: circle outside;
+}
+.content_list li a{
+    display: block;
+    position: relative;
+    color: #000;
+    text-decoration: none;
+}
+.content_list li a:hover{
+    color: #006986
+}
+.content_list li a span{
+    position: absolute;
+    right: 0;
+}
