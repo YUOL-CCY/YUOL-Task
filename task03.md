@@ -19,9 +19,7 @@
 
 2. 图片轮播特效要求.<br>
 **参考:**[长江大学临床医学院](http://yxb.yangtzeu.edu.cn/medical/yxrzztw/)图片轮播特效
-<br>
-![图片](images/2.png)
-<br>
+![图片](images/2.png)<br>
 轮播特效是每个人都必须会的,所以我建议你们选择这个.
 
 3. 弹窗特效要求.<br>
