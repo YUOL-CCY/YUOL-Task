@@ -39,11 +39,13 @@
 1. 熟练掌握js的dom操作.
 2. 熟悉javascript的常用语法.
 3. 熟练掌握javascript事件的用法
+<hr>
 
 ### 视频资料
 - [腾讯课堂js视频教程](https://ke.qq.com/course/231577)
 - [廖雪峰javascript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 - [js特效案例](https://pan.baidu.com/s/13peQeGmwlzXnDD7D6xDeSw)**密码:1bic**
+<hr>
 
 ### 推荐书籍
 - 《JavaScript 权威指南（第6版）》:能陪伴终生的一本Javascript宝典.~~从入到(放弃)精通.~~
